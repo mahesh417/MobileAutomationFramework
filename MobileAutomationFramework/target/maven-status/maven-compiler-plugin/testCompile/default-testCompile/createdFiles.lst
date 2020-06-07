@@ -1,0 +1,10 @@
+com/w2a/appium/base/ScreenBase.class
+com/w2a/appium/base/Constants.class
+com/w2a/appium/pages/ios/StrykerScreen.class
+com/w2a/appium/utils/CommonUtils.class
+com/w2a/appium/base/TestBase.class
+com/w2a/appium/utils/ExcelReader.class
+com/w2a/appium/pages/ios/UICatalogScreen.class
+com/w2a/appium/testcases/ios/UICatalogTest.class
+com/w2a/appium/testcases/ios/StrykerTest.class
+com/w2a/appium/utils/TestUtils.class

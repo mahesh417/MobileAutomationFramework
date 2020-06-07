@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Learning" duration-ms="145928" started-at="2015-08-26T17:59:03Z" finished-at="2015-08-26T18:01:29Z">
+    <groups>
+    </groups>
+    <test name="UICatalog Test" duration-ms="145928" started-at="2015-08-26T17:59:03Z" finished-at="2015-08-26T18:01:29Z">
+      <class name="com.w2a.appium.testcases.ios.UICatalogTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.appium.testcases.ios.UICatalogTest@24cd3f3a]" name="setUp" is-config="true" duration-ms="8621" started-at="2015-08-26T23:28:54Z" finished-at="2015-08-26T23:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.w2a.appium.testcases.ios.UICatalogTest@24cd3f3a]" name="init" is-config="true" duration-ms="1" started-at="2015-08-26T23:29:03Z" finished-at="2015-08-26T23:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="SwitchTest()[pri:0, instance:com.w2a.appium.testcases.ios.UICatalogTest@24cd3f3a]" name="SwitchTest" duration-ms="14513" started-at="2015-08-26T23:29:03Z" finished-at="2015-08-26T23:29:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwitchTest -->
+        <test-method status="PASS" signature="SliderTest()[pri:0, instance:com.w2a.appium.testcases.ios.UICatalogTest@24cd3f3a]" name="SliderTest" duration-ms="20642" started-at="2015-08-26T23:29:17Z" finished-at="2015-08-26T23:29:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SliderTest -->
+        <test-method status="PASS" signature="SteppersTest()[pri:0, instance:com.w2a.appium.testcases.ios.UICatalogTest@24cd3f3a]" name="SteppersTest" duration-ms="110752" started-at="2015-08-26T23:29:38Z" finished-at="2015-08-26T23:31:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SteppersTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.appium.testcases.ios.UICatalogTest@24cd3f3a]" name="tearDown" is-config="true" duration-ms="723" started-at="2015-08-26T23:31:29Z" finished-at="2015-08-26T23:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.appium.testcases.ios.UICatalogTest -->
+    </test> <!-- UICatalog Test -->
+  </suite> <!-- TestNG Learning -->
+</testng-results>
